@@ -1,0 +1,18 @@
+[
+  { "id": "j1",  "nom": "Jean-Marie Nkoudou",  "poste": "Attaquant",  "clubId": "c3",  "numero": 9 },
+  { "id": "j2",  "nom": "Ibrahim Saliou",      "poste": "Milieu",     "clubId": "c4",  "numero": 10 },
+  { "id": "j3",  "nom": "Amadou Chedjou",      "poste": "Attaquant",  "clubId": "c1",  "numero": 7 },
+  { "id": "j4",  "nom": "Roger Mbida",         "poste": "Milieu",     "clubId": "c2",  "numero": 8 },
+  { "id": "j5",  "nom": "Fabrice Ondoa",       "poste": "Gardien",    "clubId": "c1",  "numero": 1 },
+  { "id": "j6",  "nom": "Patrick Suffo",       "poste": "Attaquant",  "clubId": "c5",  "numero": 11 },
+  { "id": "j7",  "nom": "Landry Nguemo",       "poste": "Milieu",     "clubId": "c9",  "numero": 6 },
+  { "id": "j8",  "nom": "David Mbarga",        "poste": "Milieu",     "clubId": "c3",  "numero": 14 },
+  { "id": "j9",  "nom": "Ernest Mabouka",      "poste": "Défenseur",  "clubId": "c2",  "numero": 4 },
+  { "id": "j10", "nom": "Paul Essomba",        "poste": "Défenseur",  "clubId": "c4",  "numero": 5 },
+  { "id": "j11", "nom": "Clinton Njie",        "poste": "Attaquant",  "clubId": "c14", "numero": 17 },
+  { "id": "j12", "nom": "Frank Boya",          "poste": "Milieu",     "clubId": "c8",  "numero": 22 },
+  { "id": "j13", "nom": "Vincent Aboubakar",   "poste": "Attaquant",  "clubId": "c1",  "numero": 10 },
+  { "id": "j14", "nom": "Gaëtan Bong",         "poste": "Défenseur",  "clubId": "c5",  "numero": 3 },
+  { "id": "j15", "nom": "Cédric Djeugoué",     "poste": "Gardien",    "clubId": "c9",  "numero": 16 },
+  { "id": "j16", "nom": "Samuel Nlend",        "poste": "Attaquant",  "clubId": "c6",  "numero": 9 }
+]

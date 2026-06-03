@@ -1,0 +1,27 @@
+// ============================================================
+// ROUTES PUBLIQUES MOBILE — fans anonymes, sans token
+// ============================================================
+Route::prefix('mobile')->group(function () {
+     // Clubs
+    Route::get('clubs',       [ClubController::class, 'index']);
+    Route::get('clubs/{id}',  [ClubController::class, 'show']);
+    // Joueurs
+    Route::get('joueurs',      [JoueurController::class, 'index']);
+    Route::get('joueurs/{id}', [JoueurController::class, 'show']);
+
+    // Compétitions
+    Route::get('competitions',                           [CompetitionController::class, 'index']);
+    Route::get('competitions/{id}',                      [CompetitionController::class, 'show']);
+    Route::get('competitions/{id}/classement',           [CompetitionController::class, 'classement']);
+    Route::get('competitions/{id}/buteurs',              [CompetitionController::class, 'buteurs']);
+    Route::get('competitions/{id}/statistiques',         [CompetitionController::class, 'statistiques']);
+    // Matchs
+    Route::get('matchs',       [RencontreController::class, 'index']);
+    Route::get('matchs/live',  [RencontreController::class, 'live']);
+    Route::get('matchs/{id}',  [RencontreController::class, 'show']);
+
+    Route::get('articles',                       [MobileController::class, 'articles']);
+    Route::post('matchs/{id}/votes',             [MobileController::class, 'voter']);
+    Route::post('matchs/{id}/commentaires',      [MobileController::class, 'commenter']);
+    Route::get('matchs/{id}/commentaires',       [MobileController::class, 'commentaires']);
+});

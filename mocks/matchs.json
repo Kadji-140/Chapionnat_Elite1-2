@@ -1,0 +1,227 @@
+[
+  {
+    "id": "m1",
+    "clubDomId": "c3",
+    "clubExtId": "c4",
+    "scoreDom": 1,
+    "scoreExt": 3,
+    "dateMatch": "2026-04-16",
+    "heure": "15:30",
+    "stade": "Stade de Mbouda",
+    "statut": "En cours",
+    "journee": "Journée 5",
+    "ligue": "Elite 1",
+    "minuteActuelle": 90,
+    "prediction": {
+      "victoireDom": 75,
+      "nul": 15,
+      "victoireExt": 10
+    },
+    "evenements": [
+      {
+        "minute": 12,
+        "type": "but",
+        "joueurId": "j1",
+        "clubId": "c3",
+        "detail": "But de la tête sur corner"
+      },
+      {
+        "minute": 34,
+        "type": "carton_jaune",
+        "joueurId": "j10",
+        "clubId": "c4",
+        "detail": "Tacle dangereux"
+      },
+      {
+        "minute": 45,
+        "type": "but",
+        "joueurId": "j2",
+        "clubId": "c4",
+        "detail": "Frappe enroulée du pied gauche"
+      },
+      {
+        "minute": 67,
+        "type": "remplacement",
+        "joueurId": "j8",
+        "clubId": "c3",
+        "detail": "Remplacé par Samuel Nlend"
+      },
+      {
+        "minute": 78,
+        "type": "but",
+        "joueurId": "j1",
+        "clubId": "c3",
+        "detail": "Doublé ! Penalty transformé"
+      },
+      {
+        "minute": 89,
+        "type": "carton_rouge",
+        "joueurId": "j10",
+        "clubId": "c4",
+        "detail": "Deuxième carton jaune"
+      }
+    ],
+    "joueursVoteIds": [
+      "j1",
+      "j2",
+      "j10",
+      "j8"
+    ],
+    "h2h": [
+      {
+        "date": "15 Nov 2025",
+        "clubDomId": "c3",
+        "clubExtId": "c4",
+        "scoreDom": 1,
+        "scoreExt": 1,
+        "ligue": "Elite 1"
+      },
+      {
+        "date": "02 Mar 2025",
+        "clubDomId": "c4",
+        "clubExtId": "c3",
+        "scoreDom": 2,
+        "scoreExt": 0,
+        "ligue": "Elite 1"
+      },
+      {
+        "date": "18 Oct 2024",
+        "clubDomId": "c3",
+        "clubExtId": "c4",
+        "scoreDom": 3,
+        "scoreExt": 2,
+        "ligue": "Coupe du Cameroun"
+      }
+    ]
+  },
+  {
+    "id": "m2",
+    "clubDomId": "c1",
+    "clubExtId": "c2",
+    "scoreDom": 2,
+    "scoreExt": 1,
+    "dateMatch": "2026-04-16",
+    "heure": "16:00",
+    "stade": "Stade Roumdé Adjia",
+    "statut": "En cours",
+    "journee": "Journée 5",
+    "ligue": "Elite 1",
+    "minuteActuelle": 48,
+    "prediction": {
+      "victoireDom": 45,
+      "nul": 35,
+      "victoireExt": 20
+    },
+    "evenements": [
+      {
+        "minute": 5,
+        "type": "carton_jaune",
+        "joueurId": "j4",
+        "clubId": "c2",
+        "detail": "Obstruction volontaire"
+      },
+      {
+        "minute": 23,
+        "type": "but",
+        "joueurId": "j3",
+        "clubId": "c1",
+        "detail": "Reprise de volée splendide"
+      }
+    ],
+    "joueursVoteIds": [
+      "j3",
+      "j4",
+      "j5",
+      "j9"
+    ]
+  },
+  {
+    "id": "m3",
+    "clubDomId": "c5",
+    "clubExtId": "c9",
+    "scoreDom": null,
+    "scoreExt": null,
+    "dateMatch": "2026-06-03",
+    "heure": "00:22",
+    "stade": "Stade Municipal de Bangangté",
+    "statut": "À venir",
+    "journee": "Journée 5",
+    "ligue": "Elite 2",
+    "minuteActuelle": null,
+    "prediction": {
+      "victoireDom": 30,
+      "nul": 30,
+      "victoireExt": 40
+    },
+    "evenements": [],
+    "joueursVoteIds": [
+      "j6",
+      "j7",
+      "j14",
+      "j15"
+    ]
+  },
+  {
+    "id": "m4",
+    "clubDomId": "c6",
+    "clubExtId": "c7",
+    "scoreDom": 3,
+    "scoreExt": 2,
+    "dateMatch": "2026-04-15",
+    "heure": "15:00",
+    "stade": "Stade de Sangmélima",
+    "statut": "Terminé",
+    "journee": "Journée 4",
+    "ligue": "Elite 1",
+    "minuteActuelle": 90,
+    "prediction": {
+      "victoireDom": 55,
+      "nul": 25,
+      "victoireExt": 20
+    },
+    "evenements": [
+      {
+        "minute": 15,
+        "type": "but",
+        "joueurId": "j16",
+        "clubId": "c6",
+        "detail": "Ouverture du score"
+      },
+      {
+        "minute": 35,
+        "type": "but",
+        "joueurId": "j16",
+        "clubId": "c6",
+        "detail": "Doublé"
+      },
+      {
+        "minute": 60,
+        "type": "but",
+        "joueurId": "j16",
+        "clubId": "c6",
+        "detail": "Triplé historique"
+      }
+    ],
+    "joueursVoteIds": [
+      "j16"
+    ],
+    "h2h": [
+      {
+        "date": "10 Fev 2025",
+        "clubDomId": "c7",
+        "clubExtId": "c6",
+        "scoreDom": 1,
+        "scoreExt": 1,
+        "ligue": "Elite 1"
+      },
+      {
+        "date": "21 Sep 2024",
+        "clubDomId": "c6",
+        "clubExtId": "c7",
+        "scoreDom": 2,
+        "scoreExt": 0,
+        "ligue": "Elite 1"
+      }
+    ]
+  }
+]

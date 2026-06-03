@@ -1,0 +1,28 @@
+{
+  "elite1": [
+    { "position": 1,  "clubId": "c1",  "club": "Coton Sport de Garoua",    "matchsJoues": 10, "victoires": 8, "nuls": 1, "defaites": 1, "butsPour": 22, "butsContre": 7,  "points": 25 },
+    { "position": 2,  "clubId": "c3",  "club": "Bamboutos FC",             "matchsJoues": 10, "victoires": 7, "nuls": 2, "defaites": 1, "butsPour": 18, "butsContre": 8,  "points": 23 },
+    { "position": 3,  "clubId": "c2",  "club": "Canon de Yaoundé",         "matchsJoues": 10, "victoires": 6, "nuls": 3, "defaites": 1, "butsPour": 16, "butsContre": 9,  "points": 21 },
+    { "position": 4,  "clubId": "c4",  "club": "Union de Douala",          "matchsJoues": 10, "victoires": 5, "nuls": 3, "defaites": 2, "butsPour": 14, "butsContre": 10, "points": 18 },
+    { "position": 5,  "clubId": "c5",  "club": "Panthère du Ndé",          "matchsJoues": 10, "victoires": 5, "nuls": 2, "defaites": 3, "butsPour": 15, "butsContre": 11, "points": 17 },
+    { "position": 6,  "clubId": "c6",  "club": "Colombe du Dja-et-Lobo",   "matchsJoues": 10, "victoires": 4, "nuls": 3, "defaites": 3, "butsPour": 12, "butsContre": 10, "points": 15 },
+    { "position": 7,  "clubId": "c7",  "club": "Tonnerre KC",              "matchsJoues": 10, "victoires": 4, "nuls": 2, "defaites": 4, "butsPour": 11, "butsContre": 13, "points": 14 },
+    { "position": 8,  "clubId": "c8",  "club": "Eding Sport de la Lékié",  "matchsJoues": 10, "victoires": 3, "nuls": 4, "defaites": 3, "butsPour": 10, "butsContre": 11, "points": 13 },
+    { "position": 9,  "clubId": "c11", "club": "Stade Renard de Melong",   "matchsJoues": 10, "victoires": 3, "nuls": 2, "defaites": 5, "butsPour": 9,  "butsContre": 14, "points": 11 },
+    { "position": 10, "clubId": "c9",  "club": "Astres FC de Douala",      "matchsJoues": 10, "victoires": 2, "nuls": 3, "defaites": 5, "butsPour": 8,  "butsContre": 15, "points": 9  },
+    { "position": 11, "clubId": "c10", "club": "UMS de Loum",              "matchsJoues": 10, "victoires": 2, "nuls": 2, "defaites": 6, "butsPour": 7,  "butsContre": 16, "points": 8  },
+    { "position": 12, "clubId": "c12", "club": "Feutcheu FC de Bandjoun",  "matchsJoues": 10, "victoires": 1, "nuls": 1, "defaites": 8, "butsPour": 5,  "butsContre": 22, "points": 4  }
+  ],
+  "elite2": [
+    { "position": 1,  "clubId": "c13", "club": "AS Fortuna de Mfou",       "matchsJoues": 10, "victoires": 7, "nuls": 2, "defaites": 1, "butsPour": 19, "butsContre": 6,  "points": 23 },
+    { "position": 2,  "clubId": "c14", "club": "Dynamo FC de Douala",      "matchsJoues": 10, "victoires": 6, "nuls": 3, "defaites": 1, "butsPour": 17, "butsContre": 8,  "points": 21 },
+    { "position": 3,  "clubId": "c15", "club": "Racing FC de Bafoussam",   "matchsJoues": 10, "victoires": 6, "nuls": 2, "defaites": 2, "butsPour": 15, "butsContre": 9,  "points": 20 },
+    { "position": 4,  "clubId": "c16", "club": "PWD de Bamenda",           "matchsJoues": 10, "victoires": 5, "nuls": 3, "defaites": 2, "butsPour": 14, "butsContre": 10, "points": 18 },
+    { "position": 5,  "clubId": "v1",  "club": "Dragon de Yaoundé",        "matchsJoues": 10, "victoires": 5, "nuls": 2, "defaites": 3, "butsPour": 13, "butsContre": 12, "points": 17 },
+    { "position": 6,  "clubId": "v2",  "club": "Fovu de Baham",            "matchsJoues": 10, "victoires": 4, "nuls": 3, "defaites": 3, "butsPour": 11, "butsContre": 11, "points": 15 },
+    { "position": 7,  "clubId": "v3",  "club": "Yong Sports de Bamenda",   "matchsJoues": 10, "victoires": 4, "nuls": 2, "defaites": 4, "butsPour": 10, "butsContre": 12, "points": 14 },
+    { "position": 8,  "clubId": "v4",  "club": "Avion Academy",            "matchsJoues": 10, "victoires": 3, "nuls": 3, "defaites": 4, "butsPour": 9,  "butsContre": 13, "points": 12 },
+    { "position": 9,  "clubId": "v5",  "club": "Les Astres de Nkongsamba", "matchsJoues": 10, "victoires": 3, "nuls": 2, "defaites": 5, "butsPour": 8,  "butsContre": 14, "points": 11 },
+    { "position": 10, "clubId": "v6",  "club": "Aigle Royal",              "matchsJoues": 10, "victoires": 2, "nuls": 2, "defaites": 6, "butsPour": 7,  "butsContre": 17, "points": 8  }
+  ]
+}

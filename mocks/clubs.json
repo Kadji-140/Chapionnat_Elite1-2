@@ -1,0 +1,22 @@
+[
+  { "id": "c1",  "nom": "Coton Sport de Garoua",     "ligue": "Elite 1", "ville": "Garoua",      "logo": "cotonsport" },
+  { "id": "c2",  "nom": "Canon de Yaoundé",           "ligue": "Elite 1", "ville": "Yaoundé",     "logo": "canon" },
+  { "id": "c3",  "nom": "Bamboutos FC",               "ligue": "Elite 1", "ville": "Mbouda",      "logo": null },
+  { "id": "c4",  "nom": "Union de Douala",             "ligue": "Elite 1", "ville": "Douala",      "logo": "union" },
+  { "id": "c5",  "nom": "Panthère du Ndé",             "ligue": "Elite 2", "ville": "Bangangté",   "logo": null },
+  { "id": "c6",  "nom": "Colombe du Dja-et-Lobo",      "ligue": "Elite 1", "ville": "Sangmélima",  "logo": null },
+  { "id": "c7",  "nom": "Tonnerre KC",                 "ligue": "Elite 1", "ville": "Yaoundé",     "logo": "tonnerre" },
+  { "id": "c8",  "nom": "Eding Sport de la Lékié",     "ligue": "Elite 1", "ville": "Obala",       "logo": null },
+  { "id": "c9",  "nom": "Astres FC de Douala",         "ligue": "Elite 2", "ville": "Douala",      "logo": null },
+  { "id": "c10", "nom": "UMS de Loum",                 "ligue": "Elite 1", "ville": "Loum",        "logo": null },
+  { "id": "c11", "nom": "Stade Renard de Melong",      "ligue": "Elite 1", "ville": "Melong",      "logo": null },
+  { "id": "c12", "nom": "Feutcheu FC de Bandjoun",     "ligue": "Elite 1", "ville": "Bandjoun",    "logo": null },
+  { "id": "c13", "nom": "AS Fortuna de Mfou",          "ligue": "Elite 2", "ville": "Mfou",        "logo": null },
+  { "id": "c14", "nom": "Dynamo FC de Douala",          "ligue": "Elite 2", "ville": "Douala",      "logo": null },
+  { "id": "c15", "nom": "Racing FC de Bafoussam",       "ligue": "Elite 2", "ville": "Bafoussam",   "logo": "racing" },
+  { "id": "c16", "nom": "PWD de Bamenda",               "ligue": "Elite 2", "ville": "Bamenda",     "logo": null },
+  { "id": "c17", "nom": "Oryx Douala",                  "ligue": "Elite 1", "ville": "Douala",      "logo": "oryx" },
+  { "id": "c18", "nom": "Dragon Club de Yaoundé",       "ligue": "Elite 2", "ville": "Yaoundé",     "logo": "dragon" },
+  { "id": "c19", "nom": "New Stars FC de Douala",       "ligue": "Elite 2", "ville": "Douala",      "logo": "newstars" },
+  { "id": "c20", "nom": "Yaoundé II FC",                "ligue": "Elite 2", "ville": "Yaoundé",     "logo": "yaounde2" }
+]

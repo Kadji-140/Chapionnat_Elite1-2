@@ -1,0 +1,34 @@
+[
+  {
+    "id": "actu1",
+    "titre": "Samuel Eto'o annonce des réformes majeures pour le championnat MTN Elite One",
+    "resume": "La FECAFOOT prévoit d'augmenter la subvention des clubs pour la prochaine saison, avec des primes exceptionnelles pour les champions.",
+    "date": "2024-05-15",
+    "categorie": "Fecafoot",
+    "image": "actu_fecafoot"
+  },
+  {
+    "id": "actu2",
+    "titre": "Coton Sport s'impose dans le derby du Septentrion face à Colombe",
+    "resume": "Un match tendu qui s'est soldé par une victoire 2-1 de Coton Sport à Garoua. Les supporters étaient au rendez-vous au stade Roumdé Adjia.",
+    "date": "2024-05-14",
+    "categorie": "Elite 1",
+    "image": "actu_match"
+  },
+  {
+    "id": "actu3",
+    "titre": "Mercato : Bamboutos de Mbouda s'offre un nouvel attaquant",
+    "resume": "Les Mangwa Boys veulent jouer le titre et signent un renfort de poids en attaque pour dynamiser leur jeu offensif.",
+    "date": "2024-05-13",
+    "categorie": "Transferts",
+    "image": "actu_transfert"
+  },
+  {
+    "id": "actu4",
+    "titre": "Le retour en force du Canon de Yaoundé",
+    "resume": "Après des années difficiles, le Kpakum montre un visage impressionnant cette saison et se place parmi les favoris pour le sacre.",
+    "date": "2024-05-12",
+    "categorie": "Elite 1",
+    "image": "actu_canon"
+  }
+]
